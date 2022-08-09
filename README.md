@@ -30,7 +30,7 @@ Enter the number of ports to scan (default=100): <br/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://imgur.com/xYUuuSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hvSWP8d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
